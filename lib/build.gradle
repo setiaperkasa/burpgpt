@@ -6,6 +6,7 @@
  * User Manual available at https://docs.gradle.org/7.4.2/userguide/building_java_projects.html
  */
 
+
 plugins {
     id 'com.github.johnrengelman.shadow' version '7.0.0'
     id 'java-library'
